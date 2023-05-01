@@ -1,0 +1,4 @@
+[submodule "ha-addon-ssh"]
+	path = ha-addon-ssh
+	url = https://github.com/zyk/ha-addon-ssh/
+
